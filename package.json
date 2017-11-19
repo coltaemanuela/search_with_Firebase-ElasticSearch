@@ -1,0 +1,34 @@
+{
+  "name": "premise-search",
+  "version": "1.0.0",
+  "description": "Premise api.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.mobiversal.com:proj/premise-web.git"
+  },
+  "author": "Sebestyen Obed / Emanuela Colta",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "body-parser": "^1.15.2",
+    "color": "^0.11.4",
+    "ejs": "^2.5.2",
+    "elasticsearch": "^11.0.1",
+    "elasticsearchclient": "^0.5.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "find-value": "^1.0.5",
+    "firebase": "^3.4.0",
+    "firebase-admin": "^4.1.3",
+    "firebase-queue": "^1.5.0",
+    "google-cloud": "^0.44.0",
+    "multer": "^1.2.0",
+    "nodemon": "^1.10.2",
+    "obj-unflatten": "^1.0.4",
+    "util": "^0.10.3"
+  }
+}
